@@ -1,0 +1,23 @@
+{
+  "name": "loan-calculator",
+  "version": "1.0.0",
+  "description": "Simple loan calculator",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "finance",
+    "personal finance",
+    "loan",
+    "loan calculator",
+    "calculator"
+  ],
+  "author": "Adam Burucs",
+  "license": "CC BY-NC-ND 4.0",
+  "devDependencies": {
+    "vite": "^5.0.6"
+  }
+}
