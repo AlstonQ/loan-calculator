@@ -73,7 +73,7 @@ footer {
 }
 
 header {
-  background-color: var(--clr-dark-primary);
+  background-color: #FFFFFF;
 }
 
 .header-wrapper {
@@ -81,7 +81,7 @@ header {
 }
 
 main {
-  background-color: var(--clr-primary);
+  background-color:#e81f76;
 }
 
 .main-wrapper {
